@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [Navigation Model for Smart Glasses for Blind people](https://github.com/Purnima2004/Smart-Glasses-for-Visually-Impaired-People)
 
-- 🌱 I’m currently learning **Javascript, React**
+- 🌱 I’m currently learning **Javascript and React**
 
 - 👯 I’m looking to collaborate on **web development projects**
-
-- 🤝 I’m always learning and creating projects that solve **real-world problems**
 
 - 👨‍💻 All of my projects are available at [https://purnima-sahoo-portfolio.b12sites.com/index](https://purnima-sahoo-portfolio.b12sites.com/index)
 
 - 📝 Active participant in the "100DaysOfCode" challenge on Linkedin. [https://www.linkedin.com/in/purnima-sahoo-61a566252/](https://www.linkedin.com/in/purnima-sahoo-61a566252/)
+
+- 🤝 I’m always learning and creating projects that solve **real-world problems**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Data Structures and Algorithms**
 
@@ -37,5 +37,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=purnima2004&show_icons=true&locale=en&layout=compact" alt="purnima2004" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purnima2004&show_icons=true&locale=en" alt="purnima2004" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purnima2004&" alt="purnima2004" /></p>
