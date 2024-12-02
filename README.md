@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Purnima</h1>
 <h3 align="center">An enthusiastic developer and programmer who relishes developing projects</h3>
 
+<div align="center">
 <img src="https://github.com/Purnima2004/portfolio-assets/blob/main/Welcome.gif" alt="Animation" align= "center" width="600">
+</div>
 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purnima2004&label=Profile%20views&color=0e75b6&style=flat" alt="purnima2004" /> </p>
