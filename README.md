@@ -1,18 +1,8 @@
 <h1 align="center">Hi 👋, I'm Purnima</h1>
 <h3 align="center">An enthusiastic developer and programmer who relishes developing projects</h3>
 
-  <video controls>
-
-            <source src="https://github.com/Purnima2004/Purnima2004/blob/main/Welcome.mp4" type="video/mp4">
-
-           
-
-        
-</video>
-
-
-
-
+![Creative Animation](<iframe src="https://giphy.com/embed/YyJug6GHHv5aYF3fSD" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YyJug6GHHv5aYF3fSD">via GIPHY</a></p>)  
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purnima2004&label=Profile%20views&color=0e75b6&style=flat" alt="purnima2004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purnima2004" alt="purnima2004" /></a> </p>
