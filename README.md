@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic developer and programmer who relishes developing projects</h3>
 
 <div align="center">
-<img src="https://github.com/Purnima2004/portfolio-assets/blob/main/Welcome.gif" alt="Animation" align= "center" width="600">
+<img src="https://github.com/Purnima2004/portfolio-assets/blob/main/Welcome.gif" alt="Animation" align= "center" width="400">
 </div>
 
  
