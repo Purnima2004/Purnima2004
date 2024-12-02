@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Purnima</h1>
 <h3 align="center">An enthusiastic developer and programmer who relishes developing projects</h3>
 
-![Creative Animation](<iframe src="https://giphy.com/embed/YyJug6GHHv5aYF3fSD" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YyJug6GHHv5aYF3fSD">via GIPHY</a></p>)  
+![Creative Animation](<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/YyJug6GHHv5aYF3fSD" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/YyJug6GHHv5aYF3fSD">via GIPHY</a></p>) 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purnima2004&label=Profile%20views&color=0e75b6&style=flat" alt="purnima2004" /> </p>
 
