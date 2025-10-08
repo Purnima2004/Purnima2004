@@ -1,44 +1,111 @@
-<h1 align="center">Hi 👋, I'm Purnima</h1>
-<h3 align="center">An enthusiastic developer and programmer who relishes developing projects</h3>
-
+```markdown
 <div align="center">
-<img src="https://github.com/Purnima2004/portfolio-assets/blob/main/Welcome.gif" alt="Animation" align= "center" width="400">
+
+# 👋 Hello, I'm Purnima
+
+### Developer • Problem Solver • ML Enthusiast
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://purnima-sahoo-portfolio.b12sites.com/index)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purnima-sahoo-61a566252)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/purnimajagganathsahoo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purnimajagganathsahoo@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=purnima2004&color=blueviolet&style=flat-square)
+
 </div>
 
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=purnima2004&label=Profile%20views&color=0e75b6&style=flat" alt="purnima2004" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purnima2004" alt="purnima2004" /></a> </p>
+## 🚀 About Me
 
-- 🔭 I’m currently working on [Navigation Model for Smart Glasses for Blind people](https://github.com/Purnima2004/Smart-Glasses-for-Visually-Impaired-People)
+```typescript
+const purnima = {
+    currentFocus: "Building Navigation Model for Smart Glasses",
+    learning: ["JavaScript", "React", "Web Development"],
+    interests: ["Machine Learning", "Deep Learning", "DSA"],
+    challenge: "100DaysOfCode on LinkedIn",
+    funFact: "I find joy in discovering creativity in everything! ✨"
+};
+```
 
-- 🌱 I’m currently learning **Javascript and React**
+<div align="center">
 
-- 👯 I’m looking to collaborate on **web development projects**
+### 💼 Currently Working On
 
-- 👨‍💻 All of my projects are available at [https://purnima-sahoo-portfolio.b12sites.com/index](https://purnima-sahoo-portfolio.b12sites.com/index)
+**[Smart Glasses for Visually Impaired](https://github.com/Purnima2004/Smart-Glasses-for-Visually-Impaired-People)** 🥽  
+*Navigation model using ML to enhance mobility for blind individuals*
 
-- 📝 Active participant in the "100DaysOfCode" challenge on Linkedin. [https://www.linkedin.com/in/purnima-sahoo-61a566252/](https://www.linkedin.com/in/purnima-sahoo-61a566252/)
+</div>
 
-- 🤝 I’m always learning and creating projects that solve **real-world problems**
+---
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Data Structures and Algorithms**
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **purnimajagganathsahoo@gmail.com**
+<div align="center">
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/home](https://drive.google.com/drive/u/0/home)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- ⚡ Fun fact **I find joy in discovering creativity in everything around me!😁**
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/purnima-sahoo-61a566252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purnima-sahoo-61a566252" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/purnimajagganathsahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="purnimajagganathsahoo" height="30" width="40" /></a>
-</p>
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=purnima2004&show_icons=true&locale=en&layout=compact" alt="purnima2004" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purnima2004&show_icons=true&locale=en" alt="purnima2004" /></p>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=purnima2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnima2004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=purnima2004&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=purnima2004&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎯 What I'm Looking For
+
+- 🤝 **Collaborations** on web development and ML projects
+- 💡 **Opportunities** to solve real-world problems through code
+- 📚 **Knowledge sharing** in ML, DL, and DSA
+- 🌱 **Continuous learning** and building impactful solutions
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+*Building solutions that make a difference, one commit at a time.*
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
+```
