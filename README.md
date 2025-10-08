@@ -62,25 +62,6 @@
 
 ---
 
-## 📊 Skill progress (clean visual bars)
-- **JavaScript**    ▉▉▉▉▉▉▉▉▎ 80%  
-- **React**     ▉▉▉▉▉▉▎▎▎ 65%  
-- **Computer Vision** ▉▉▉▉▉▉▉▎▎ 70%  
-- **DSA**     ▉▉▉▉▉▎▎▎▎ 60%  
-- **Python / ML**   ▉▉▉▉▉▉▎▎ 70%
-
-*(Replace percentage values if you prefer other numbers.)*
-
----
-
-## 🧭 Roadmap — next 3 months
-1. Ship a polished React demo for the Smart Glasses UI (accessible, keyboard-first).  
-2. Add end-to-end tests + CI to top repos.  
-3. Complete two portfolio case studies with before/after UX write-ups.  
-4. Apply for paid online internships (target: 6–10 LPA roles).
-
----
-
 ## 🤝 How I like to collaborate
 - Clear problem statement (what to build, who benefits)  
 - Weekly 1–2 small milestones (keeps momentum)  
@@ -111,11 +92,4 @@ If that sounds like your project style — let's talk!
 ### ✨ Fun fact
 I find creativity in everyday things — small, curious ideas become meaningful projects. 😄
 
----
 
-> If you want an even bolder version I can:
-> - add a custom SVG banner (branded colors & illustration),  
-> - produce a compact one-column “resume” README, or  
-> - generate a dark-theme + animated header variant.
-
-Tell me which *specific* variant you want next (SVG banner, dark-theme, or resume-style) and I’ll generate it instantly — fully ready-to-paste.
