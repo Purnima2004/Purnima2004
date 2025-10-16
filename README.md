@@ -82,17 +82,35 @@
 
 <div align="center">
 
-<a href="https://github.com/Purnima2004/SkillCraft_front">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Purnima2004&repo=SkillCraft_front&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFD700&text_color=FFFFFF" />
-</a>
+<!-- SkillCraft (correct repo + demo) -->
+<div style="display:inline-block; margin:8px; text-align:center; max-width:420px;">
+  <a href="https://github.com/Purnima2004/SkillCraft_frontend" target="_blank" rel="noopener">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Purnima2004&repo=SkillCraft_frontend&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFD700&text_color=FFFFFF" alt="SkillCraft repo" />
+  </a>
+  <p style="max-width:420px; text-align:left; margin:6px 4px 0 4px; font-size:13px;">
+    <strong>SkillCraft</strong> — React.js + Tailwind CSS front-end integrated with HuggingFace/GenAI backend. Architected with React 18 & Vite, 15+ reusable components, lazy-loaded routes and sub-100ms API responses for a smooth learning UX. Finalist — Amdocs GenAI Hackathon 2024.  
+    <br/>
+    Repo: <a href="https://github.com/Purnima2004/SkillCraft_frontend">SkillCraft_frontend</a> · Demo: <a href="https://course-craft-front.vercel.app/" target="_blank" rel="noopener">course-craft-front.vercel.app</a>
+  </p>
+</div>
 
-<a href="https://github.com/Purnima2004/AutoML-Solution">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Purnima2004&repo=AutoML-Solution&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFD700&text_color=FFFFFF" />
-</a>
+<!-- AutoML Solution (correct repo + demo) -->
+<div style="display:inline-block; margin:8px; text-align:center; max-width:420px;">
+  <a href="https://github.com/Purnima2004/AutoML-Solution" target="_blank" rel="noopener">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Purnima2004&repo=AutoML-Solution&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFD700&text_color=FFFFFF" alt="AutoML Solution repo" />
+  </a>
+  <p style="max-width:420px; text-align:left; margin:6px 4px 0 4px; font-size:13px;">
+    <strong>Auto ML Solution</strong> — A production-ready AutoML pipeline (scikit-learn, ColumnTransformer, Pipeline, PCA) with 15+ algorithms, automated preprocessing and interactive Streamlit dashboard for model monitoring. Reduced model development time by ~75%.  
+    <br/>
+    Repo: <a href="https://github.com/Purnima2004/AutoML-Solution">AutoML-Solution</a> · Demo: <a href="https://automl-pro.streamlit.app/" target="_blank" rel="noopener">automl-pro.streamlit.app</a>
+  </p>
+</div>
 
 </div>
 
-<br/>
+<!-- Source: project names, repos and demo links taken from your resume. -->
+<!-- Details such as React 18, Vite, 15+ components, hackathon final, ColumnTransformer, PCA and deployment are from your resume. --> :contentReference[oaicite:0]{index=0}
+
 
 ### 💡 Project Highlights
 
