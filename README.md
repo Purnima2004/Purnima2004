@@ -26,34 +26,43 @@
 
 ## 👩‍💻 About Me
 
-```python
-class FullStackDeveloper:
-    def __init__(self):
-        self.name = "Purnima Sahoo"
-        self.role = "Full-Stack Developer & ML Engineer"
-        self.location = "India 🇮🇳"
-        self.education = "B.Tech in Computer Science"
-        
-    def current_work(self):
-        return {
-            "company": "AlgoUniversity (YC S21)",
-            "position": "SWE Co-op Intern",
-            "focus": ["Online Judge Platform", "AI Integration"]
-        }
-    
-    def achievements(self):
-        return ["Amdocs GenAI Hackathon Finalist 🏆"]
-```
+<table>
+<tr>
+<td width="50%">
+
+### 💼 Current Role
+**SWE Co-op Intern**  
+@ AlgoUniversity (YC S21)
+
+🏗️ Building Online Judge Platform  
+🤖 Integrating AI-powered code analysis  
+🐳 Dockerizing secure execution environments
+
+</td>
+<td width="50%">
+
+### 🎯 Focus Areas
+**Full-Stack Development**  
+**Machine Learning Engineering**
+
+🌱 System Design & Scalability  
+⚛️ React 18 & Modern Frontend  
+☁️ Cloud Architecture (AWS)  
+🤖 GenAI Integrations
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 🎯 **Passionate** about creating polished, production-ready applications
 
-🌱 **Currently mastering:** System Design · React 18 · GenAI · Cloud Architecture
-
 ⚡ **Specialization:** React · Django · Machine Learning · AWS Deployment
 
 🚀 **Mission:** Bridging frontend UX with ML systems for seamless experiences
+
+🏆 **Achievement:** Amdocs GenAI Hackathon Finalist
 
 <br clear="right"/>
 
