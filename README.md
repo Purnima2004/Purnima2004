@@ -1,95 +1,159 @@
-<!-- ============================
-   PURNIMA SAHOO — GitHub README
-   Modern • Clean • High-impact
-   Paste this into your README.md
-   ============================ -->
+<!--Banner-->
+![Purnima Banner Image](./banner.png)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/✨%20Purnima%20Sahoo%20✨-Developer%20%7C%20ML%20%7C%20Frontend-ff69b4?style=for-the-badge&logo=github" alt="Purnima Sahoo"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm <span style="color:#ff69b4">Purnima</span></h1>
-<p align="center"><em>Enthusiastic developer focused on accessibility, computer vision, & elegant front-ends. I build projects that solve real-world problems.</em></p>
-
-<div align="center">
-  <img src="https://github.com/Purnima2004/portfolio-assets/blob/main/Welcome.gif" alt="Welcome" width="460" style="border-radius:12px; box-shadow: 0 10px 30px rgba(0,0,0,0.08)"/>
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴘᴜʀɴɪᴍᴀ sᴀʜᴏᴏ!  
+*Full-Stack Developer · Machine Learning Enthusiast*  
+<br/>
+
+<!--Start Intro-->
+<p align="left">
+I build web apps and machine learning tools — I enjoy bridging frontend UX and ML systems to deliver polished, usable products. I work with React, Tailwind, Django, Python and have hands-on experience deploying on AWS. :contentReference[oaicite:0]{index=0}
+</p>
+
+- ✨ Lifelong learner: enthusiastic about production-ready ML and modern frontend patterns. :contentReference[oaicite:1]{index=1}  
+- 🌱 Currently sharpening System Design, React 18 patterns, GenAI integrations and cloud deployments. :contentReference[oaicite:2]{index=2}  
+- 💻 SWE Co-op Intern at AlgoUniversity (YC S21) — built an Online Judge with Dockerized sandboxing and Gemini AI code analysis. :contentReference[oaicite:3]{index=3}  
+- 🏅 Finalist — Amdocs GenAI Hackathon (SkillCraft project). :contentReference[oaicite:4]{index=4}
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Purnima2004&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Purnima2004" style="padding-right:20px;" />
+</p>
+
+---
+
+<!--Tech Stack & Latest Projects-->
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛs</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br/>
+
+### Current Learning
+- Productionizing ML and GenAI workflows (Hugging Face / Gemini integrations). :contentReference[oaicite:5]{index=5}  
+- Advanced React.js patterns, component composition and performance. :contentReference[oaicite:6]{index=6}  
+- Cloud deployment patterns (AWS EC2 + Nginx reverse proxy, SSL). :contentReference[oaicite:7]{index=7}
+
+### Tech highlights
+**Languages:** Python, JavaScript, C/C++ (competitive coding). :contentReference[oaicite:8]{index=8}  
+**Web / Backend:** React.js, Tailwind CSS, Django, SQLite/MySQL. :contentReference[oaicite:9]{index=9}  
+**ML / Data:** Scikit-learn, PyTorch, Transformers, Streamlit. :contentReference[oaicite:10]{index=10}  
+**Dev & Deploy:** Docker, Git, AWS EC2, Vercel, Railway. :contentReference[oaicite:11]{index=11}
+
+### Latest Projects
+- **Online Judge — AlgoUniversity** — Dockerized judge, Django + SQLite, integrated Gemini for code analysis. (SWE Co-op) :contentReference[oaicite:12]{index=12}  
+  Repo: `https://github.com/Purnima2004/OJ_Project_AlgoUniversity`  
+- **SkillCraft (React + GenAI)** — interactive learning UI; finalist at Amdocs GenAI Hackathon. :contentReference[oaicite:13]{index=13}  
+  Repo / Demo: `https://github.com/Purnima2004/SkillCraft_front` · `https://course-craft-front.vercel.app/`  
+- **Auto ML Solution** — AutoML pipeline with scikit-learn, PCA, visual dashboard (Streamlit). :contentReference[oaicite:14]{index=14}  
+  Repo / Demo: `https://github.com/Purnima2004/AutoML-Solution` · `https://automl-pro.streamlit.app/`  
+- Portfolio / personal site: `https://fullmoon.icu/`. :contentReference[oaicite:15]{index=15}
+
+---
+
+<!--Trophies-->
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/Purnima2004"><img src="https://komarev.com/ghpvc/?username=purnima2004&color=0e75b6&style=flat" alt="Profile views"/></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purnima2004&theme=tokyonight" alt="Trophies"/></a>
+  <a href="https://github.com/Purnima2004">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Purnima2004&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Purnima2004&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Purnima2004&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
 </p>
 
 ---
 
-## 🚀 Quick Intro
-- 🔭 Currently building **Smart Glasses — Navigation Model for Visually Impaired** (CV + assistive UX).  
-  Repo → https://github.com/Purnima2004/Smart-Glasses-for-Visually-Impaired-People
-- 🌱 Deepening **JavaScript** & **React** skills for production-grade frontends.
-- 👯 Open to collaborating on **web**, **ML**, and **accessibility** projects.
-- 💬 Ask me about **Computer Vision, ML, DSA, and Frontend**.
-- 📫 Reach me: **purnimajagganathsahoo@gmail.com**  
-  Portfolio → https://purnima-sahoo-portfolio.b12sites.com/index  
-  LinkedIn → https://www.linkedin.com/in/purnima-sahoo-61a566252/  
-  LeetCode → https://www.leetcode.com/purnimajagganathsahoo
+<!--Github stats Table-->
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Purnima2004">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Purnima2004&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&hide=prs,issues,contribs" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Purnima2004">
+          <img align="center" src="https://streak-stats.demolab.com?user=Purnima2004&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Purnima2004/SkillCraft_front">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Purnima2004&repo=SkillCraft_front&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="SkillCraft" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Purnima2004">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Purnima2004&limit=2&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Purnima2004&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
 
 ---
 
-## ✨ Featured Projects
-> Short, clear one-liners — link to repo and what problem it solves.
+<!--Dynamic Quote card updates everyday at 12 PM-->
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏꜰ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
-| Project | One-line pitch |
-|---|---|
-| **Smart Glasses for Visually Impaired** | Navigation + CV pipeline for safe indoor/outdoor assistance. 🔗 [Repo](https://github.com/Purnima2004/Smart-Glasses-for-Visually-Impaired-People) |
-| **(Add project 2)** | Short impact sentence. 🔗 `https://github.com/Purnima2004/<repo>` |
-| **(Add project 3)** | Short impact sentence. 🔗 `https://github.com/Purnima2004/<repo>` |
-
-> 💡 Tip: Replace placeholders with 2–3 more repos you want recruiters to notice.
-
----
-
-## 🛠 Tech & Tools — at-a-glance
-<p>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jeffrey%20Gitomer&quote=Resilience%20is%20not%20what%20happens%20to%20you.%20It's%20how%20you%20react%20to%2C%20respond%20to%2C%20and%20recover%20from%20what%20happens%20to%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 
 ---
 
-## 🤝 How I like to collaborate
-- Clear problem statement (what to build, who benefits)  
-- Weekly 1–2 small milestones (keeps momentum)  
-- Short PRs & docs for handover
+<!--Contact Section-->
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:purnimajagganathsahoo@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="purnimajagganathsahoo@gmail.com" style="margin-bottom: 5px;" />
+</a>
 
-If that sounds like your project style — let's talk!
+<a href="https://github.com/Purnima2004" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Purnima2004" style="margin-bottom: 5px;" />
+</a>
 
----
+<a href="https://www.linkedin.com/in/purnima-sahoo-61a566252/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
 
-## 📬 Contact & socials
-<p>
-<a href="mailto:purnimajagganathsahoo@gmail.com"><img src="https://img.shields.io/badge/Email-purnimajagganathsahoo@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-<a href="https://www.linkedin.com/in/purnima-sahoo-61a566252/"><img src="https://img.shields.io/badge/LinkedIn-Purnima%20Sahoo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://www.leetcode.com/purnimajagganathsahoo"><img src="https://img.shields.io/badge/LeetCode-purnimajagganathsahoo-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/></a>
+</div>
+<br/>
+
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
----
-
-## 📈 GitHub stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=purnima2004&layout=compact" alt="top langs"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=purnima2004&show_icons=true" alt="github stats"/>
-</p>
-
----
-
-### ✨ Fun fact
-I find creativity in everyday things — small, curious ideas become meaningful projects. 😄
-
-
