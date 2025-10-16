@@ -257,33 +257,57 @@
 
 ## 🎯 Current Learning Path
 
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 ML & AI Operations
+**Focus Areas:**
+- 🤗 Hugging Face Transformers
+- ✨ Gemini API Integration
+- 🚀 Production ML Pipelines
+
+**Goal:** Deploy scalable ML solutions
+
+---
+
+### 🎨 Frontend Development
+**Focus Areas:**
+- ⚛️ React 18 Patterns
+- 🧩 Component Composition
+- ⚡ Performance Optimization
+
+**Goal:** Master modern React architecture
+
+</td>
+<td width="50%">
+
+### ⚙️ Backend Engineering
+**Focus Areas:**
+- 🏗️ System Design
+- 📈 Scalable Architectures
+- 🔌 API Design Patterns
+
+**Goal:** Build robust backend systems
+
+---
+
+### ☁️ DevOps & Cloud
+**Focus Areas:**
+- 🌐 AWS EC2 Deployment
+- 🔧 Nginx Configuration
+- 🔒 SSL/TLS Setup
+- 🔄 CI/CD Pipelines
+
+**Goal:** Streamline deployment workflows
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-```javascript
-const learningJourney = {
-    ml_ops: {
-        focus: ["Hugging Face Transformers", "Gemini API", "Production ML Pipelines"],
-        goal: "Deploy scalable ML solutions"
-    },
-    
-    frontend: {
-        focus: ["React 18 Patterns", "Component Composition", "Performance Optimization"],
-        goal: "Master modern React architecture"
-    },
-    
-    backend: {
-        focus: ["System Design", "Scalable Architectures", "API Design Patterns"],
-        goal: "Build robust backend systems"
-    },
-    
-    devops: {
-        focus: ["AWS EC2", "Nginx Configuration", "SSL/TLS Setup", "CI/CD Pipelines"],
-        goal: "Streamline deployment workflows"
-    }
-};
-
-console.log("Always learning, always growing! 🚀");
-```
+### 💡 *Always learning, always growing!* 🚀
 
 </div>
 
