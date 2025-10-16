@@ -22,7 +22,7 @@
 
 ---
 
-<img align="right" alt="Coding Girl" width="380" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img align="right" alt="Coding Girl" width="380" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 ## 👩‍💻 About Me
 
