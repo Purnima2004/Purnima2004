@@ -5,6 +5,9 @@
 <div align="center">
   <h3>💫 Building intelligent web experiences that bridge beautiful UX with powerful ML systems</h3>
   
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="Girl Coding" width="400"/>
+  <br/><br/>
+
   <a href="https://fullmoon.icu/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-fullmoon.icu-FF0080?style=for-the-badge&labelColor=1a1a2e" alt="Portfolio"/>
   </a>
@@ -22,22 +25,24 @@
 
 ---
 
+<div align="center">
+
 ## 👩‍💻 About Me
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" align="center">
       <h3>💼 Current Role</h3>
       <p><strong>SWE Co-op Intern</strong> @ AlgoUniversity (YC S21)</p>
-      <ul>
+      <ul align="left">
         <li>🏗️ Building Online Judge Platform</li>
         <li>🤖 Integrating AI-powered code analysis</li>
         <li>🐳 Dockerizing secure execution environments</li>
       </ul>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" align="center">
       <h3>🎯 Focus Areas</h3>
-      <ul>
+      <ul align="left">
         <li><strong>Full-Stack Development</strong></li>
         <li><strong>Machine Learning Engineering</strong></li>
         <li>🌱 System Design & Scalability</li>
@@ -90,13 +95,11 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Purnima2004&show_icons=true&theme=radical&title_color=FF0080&icon_color=0000FF&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Purnima2004&theme=radical&ring=FF0080&fire=FF0080&currStreakLabel=FF0080&background=0d1117&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purnima2004&layout=compact&theme=radical&title_color=FF0080&icon_color=0000FF&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Purnima2004&show_icons=true&theme=radical&title_color=FF0080&icon_color=0000FF&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Purnima2004&theme=radical&ring=FF0080&fire=FF0080&currStreakLabel=FF0080&background=0d1117&hide_border=true" alt="GitHub Streak" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purnima2004&layout=compact&theme=radical&title_color=FF0080&icon_color=0000FF&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" />
 
 ---
 
@@ -104,33 +107,33 @@
 
 <table>
   <tr>
-    <td width="25%">
-      <h3 align="center">🤖 ML & AI</h3>
-      <ul>
+    <td width="25%" align="center">
+      <h3>🤖 ML & AI</h3>
+      <ul align="left">
         <li>🤗 Hugging Face</li>
         <li>✨ Gemini API</li>
         <li>🚀 ML Pipelines</li>
       </ul>
     </td>
-    <td width="25%">
-      <h3 align="center">🎨 Frontend</h3>
-      <ul>
+    <td width="25%" align="center">
+      <h3>🎨 Frontend</h3>
+      <ul align="left">
         <li>⚛️ React 18</li>
         <li>🧩 Composition</li>
         <li>⚡ Performance</li>
       </ul>
     </td>
-    <td width="25%">
-      <h3 align="center">⚙️ Backend</h3>
-      <ul>
+    <td width="25%" align="center">
+      <h3>⚙️ Backend</h3>
+      <ul align="left">
         <li>🏗️ System Design</li>
         <li>📈 Scalability</li>
         <li>🔌 API Design</li>
       </ul>
     </td>
-    <td width="25%">
-      <h3 align="center">☁️ DevOps</h3>
-      <ul>
+    <td width="25%" align="center">
+      <h3>☁️ DevOps</h3>
+      <ul align="left">
         <li>🌐 AWS EC2</li>
         <li>🔧 Nginx</li>
         <li>🔄 CI/CD</li>
@@ -139,26 +142,24 @@
   </tr>
 </table>
 
-<div align="center">
-  <h3>💡 <i>Always learning, always growing!</i> 🚀</h3>
-</div>
+<h3>💡 <i>Always learning, always growing!</i> 🚀</h3>
 
 ---
 
-<div align="center">
-  <h2>🤝 Let's Connect & Collaborate!</h2>
-  <p><i>I'm always excited about interesting conversations, collaboration opportunities, and new projects!</i></p>
-  
-  <a href="https://www.linkedin.com/in/purnima-sahoo-61a566252/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:purnimajagganathsahoo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://fullmoon.icu/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF0080?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/Purnima2004">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<h2>🤝 Let's Connect & Collaborate!</h2>
+<p><i>I'm always excited about interesting conversations, collaboration opportunities, and new projects!</i></p>
+
+<a href="https://www.linkedin.com/in/purnima-sahoo-61a566252/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:purnimajagganathsahoo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://fullmoon.icu/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-FF0080?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://github.com/Purnima2004">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
