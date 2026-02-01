@@ -142,7 +142,7 @@
   </tr>
 </table>
 
-<h3> <i>Always learning, always growing!</i> 🚀</h3>
+<h3> <i>Always learning, always growing!</i> </h3>
 
 ---
 
