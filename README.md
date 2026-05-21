@@ -1,165 +1,202 @@
+<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF0080,7928CA,0000FF&height=280&section=header&text=Purnima%20Sahoo&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%C2%B7%20ML%20Enthusiast&descSize=20&descAlignY=60" alt="Header" width="100%"/>
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║    ██████╗ ██╗   ██╗██████╗ ███╗   ██╗██╗███╗   ███╗ █████╗    ║
+║    ██╔══██╗██║   ██║██╔══██╗████╗  ██║██║████╗ ████║██╔══██╗   ║
+║    ██████╔╝██║   ██║██████╔╝██╔██╗ ██║██║██╔████╔██║███████║   ║
+║    ██╔═══╝ ██║   ██║██╔══██╗██║╚██╗██║██║██║╚██╔╝██║██╔══██║   ║
+║    ██║     ╚██████╔╝██║  ██║██║ ╚████║██║██║ ╚═╝ ██║██║  ██║   ║
+║    ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝  ║
+║                                                                  ║
+║              SAHOO  ·  Full-Stack × ML Engineer                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
+<!-- TYPING ANIMATION + SOCIAL STRIP -->
 <div align="center">
-  <h3>Building intelligent web experiences that bridge beautiful UX with powerful ML systems</h3>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="Coding Animation" width="400"/>
-  <br/><br/>
 
-  <a href="https://fullmoon.icu/">
-    <img src="https://img.shields.io/badge/Portfolio-fullmoon.icu-FF0080?style=for-the-badge&labelColor=1a1a2e" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/purnima-sahoo-61a566252/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:purnimajagganathsahoo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email"/>
-  </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Purnima2004&color=FF0080&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FFB2&center=true&vCenter=true&width=600&lines=Building+intelligent+web+experiences+%F0%9F%8C%99;React+%C2%B7+Django+%C2%B7+PyTorch+%C2%B7+AWS;SWE+Co-op+%40+AlgoUniversity+(YC+S21);Amdocs+GenAI+Hackathon+Finalist+%F0%9F%8F%86" alt="Typing SVG" /></a>
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/◈_Portfolio-fullmoon.icu-00FFB2?style=flat-square&labelColor=0a0a0a&color=00FFB2)](https://fullmoon.icu/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-Connect-0A66C2?style=flat-square&labelColor=0a0a0a)](https://www.linkedin.com/in/purnima-sahoo-61a566252/)&nbsp;
+[![Email](https://img.shields.io/badge/◈_Email-Write-EA4335?style=flat-square&labelColor=0a0a0a)](mailto:purnimajagganathsahoo@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/◈_GitHub-Follow-ffffff?style=flat-square&labelColor=0a0a0a)](https://github.com/Purnima2004)
+
+<!-- 
+  UNIQUE VISITOR NOTE:
+  hits.seeyoufarm.com tracks unique daily IPs (closest public approximation to unique accounts).
+  GitHub's own traffic tab (only visible to you) is the only true unique-account counter.
+-->
+[![Unique Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPurnima2004&count_bg=%2300FFB2&title_bg=%230a0a0a&icon=github.svg&icon_color=%23ffffff&title=Unique+Visitors&edge_flat=true)](https://github.com/Purnima2004)
+
 </div>
 
 <br/>
 
 ---
 
+<!-- TERMINAL ABOUT SECTION -->
+
+```bash
+$ whoami
+```
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  NAME     →  Purnima Sahoo                                      │
+│  ROLE     →  SWE Co-op Intern @ AlgoUniversity (YC S21)         │
+│  FOCUS    →  Full-Stack Development  ×  ML Engineering           │
+│  STACK    →  React · Django · PyTorch · AWS · Docker            │
+│  MISSION  →  Bridging frontend UX with ML systems               │
+│  WIN      →  Amdocs GenAI Hackathon Finalist 🏆                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**Currently building** → Dockerized Online Judge Platform with Gemini AI code analysis at AlgoUniversity  
+**Learning** → AWS EC2, Nginx, CI/CD pipelines, advanced system design  
+**Mantra** → *Ship fast. Iterate. Make it beautiful.*
+
+<br/>
+
+---
+
+<!-- TECH STACK -->
+
+```bash
+$ cat tech_stack.json
+```
+
+**`// Frontend`**
+
+![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=E34F26)
+![Vite](https://img.shields.io/badge/Vite-0a0a0a?style=flat-square&logo=vite&logoColor=646CFF)
+
+**`// Backend`**
+
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/Django-0a0a0a?style=flat-square&logo=django&logoColor=092E20&color=0a0a0a)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=4479A1)
+![C++](https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=cplusplus&logoColor=00599C)
+
+**`// ML / AI`**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0a?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0a0a?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0a?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![Streamlit](https://img.shields.io/badge/Streamlit-0a0a0a?style=flat-square&logo=streamlit&logoColor=FF4B4B)
+![Gemini](https://img.shields.io/badge/Gemini_AI-0a0a0a?style=flat-square&logo=google&logoColor=4285F4)
+
+**`// DevOps & Cloud`**
+
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=F05032)
+![Nginx](https://img.shields.io/badge/Nginx-0a0a0a?style=flat-square&logo=nginx&logoColor=009639)
+![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=flat-square&logo=vercel&logoColor=ffffff)
+
+<br/>
+
+---
+
+<!-- PROJECTS -->
+
+```bash
+$ ls -la ./projects
+```
+
+### `◈` Online Judge Platform &nbsp;·&nbsp; *AlgoUniversity SWE Co-op*
+> Dockerized sandboxed code execution · Gemini AI code analysis · Real-time submission tracking
+
+`Django` `SQLite` `Docker` `Gemini AI` `Python`
+
+---
+
+### `◈` [SkillCraft](https://course-craft-front.vercel.app/) &nbsp;·&nbsp; *Amdocs GenAI Hackathon Finalist* 🏆
+> React 18 + Vite architecture · 15+ reusable components · Sub-100ms API response times
+
+`React.js` `Tailwind CSS` `HuggingFace` `Vite` &nbsp; → &nbsp; [![Live](https://img.shields.io/badge/→_Live_Demo-00FFB2?style=flat-square&labelColor=0a0a0a)](https://course-craft-front.vercel.app/)
+
+---
+
+### `◈` [AutoML Pro](https://automl-pro.streamlit.app/) &nbsp;·&nbsp; *Intelligent ML Pipeline*
+> 15+ ML algorithms automated · Interactive Streamlit dashboard · PCA dimensionality reduction
+
+`scikit-learn` `Streamlit` `PCA` `Python` &nbsp; → &nbsp; [![Live](https://img.shields.io/badge/→_Live_Demo-00FFB2?style=flat-square&labelColor=0a0a0a)](https://automl-pro.streamlit.app/)
+
+---
+
+### `◈` [Portfolio](https://fullmoon.icu/) &nbsp;·&nbsp; *Personal Site*
+> Modern, responsive design · Interactive UI/UX · Custom animations
+
+[![Visit](https://img.shields.io/badge/→_fullmoon.icu-00FFB2?style=flat-square&labelColor=0a0a0a)](https://fullmoon.icu/) &nbsp; [![All Repos](https://img.shields.io/badge/→_All_Repositories-ffffff?style=flat-square&labelColor=0a0a0a)](https://github.com/Purnima2004?tab=repositories)
+
+<br/>
+
+---
+
+<!-- GITHUB STATS -->
+
+```bash
+$ gh api /users/Purnima2004/stats
+```
+
 <div align="center">
 
-## About Me
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Purnima2004&show_icons=true&theme=transparent&title_color=00FFB2&icon_color=00FFB2&text_color=c9d1d9&hide_border=true&rank_icon=github&custom_title=Activity+Overview" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purnima2004&layout=compact&theme=transparent&title_color=00FFB2&text_color=c9d1d9&hide_border=true&custom_title=Languages" />
 
-<table>
-  <tr>
-    <td valign="top" width="50%" align="center">
-      <h3>Current Role</h3>
-      <p><strong>SWE Co-op Intern</strong> @ AlgoUniversity (YC S21)</p>
-      <ul align="left">
-        <li>Building Online Judge Platform</li>
-        <li>Integrating AI-powered code analysis</li>
-        <li>Dockerizing secure execution environments</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%" align="center">
-      <h3>Focus Areas</h3>
-      <ul align="left">
-        <li><strong>Full-Stack Development</strong></li>
-        <li><strong>Machine Learning Engineering</strong></li>
-        <li>System Design & Scalability</li>
-        <li>React 18 & Modern Frontend</li>
-        <li>Cloud Architecture (AWS)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-> **Passionate** about creating polished, production-ready applications.
->
-> **Specialization:** React · Django · Machine Learning · AWS Deployment
->
-> **Mission:** Bridging frontend UX with ML systems for seamless experiences.
->
-> **Achievement:** Amdocs GenAI Hackathon Finalist
-
----
-
-## Technical Skills
-
-### Frontend
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-### Backend
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-
-### ML & AI
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-
-### DevOps & Tools
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-
----
-
-## Featured Projects
-
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **Online Judge Platform**<br/>*AlgoUniversity SWE Co-op* | • Dockerized code execution sandboxing<br/>• Gemini AI integration for code analysis<br/>• Real-time submission tracking | `Django` `SQLite` `Docker` `Gemini AI` | |
-| **SkillCraft**<br/>*Amdocs GenAI Hackathon Finalist* | • React 18 + Vite architecture<br/>• 15+ reusable components<br/>• Sub-100ms API responses | `React.js` `Tailwind CSS` `HuggingFace` | [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-FF0080?style=flat-square&logo=vercel&logoColor=white)](https://course-craft-front.vercel.app/) |
-| **AutoML Solution**<br/>*Intelligent ML Pipeline* | • 15+ ML algorithms automated<br/>• Interactive Streamlit dashboard<br/>• PCA-based dimensionality reduction | `scikit-learn` `Streamlit` `PCA` | [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-FF0080?style=flat-square&logo=streamlit&logoColor=white)](https://automl-pro.streamlit.app/) |
-
-### More Projects
-- **Portfolio Website**: Modern, responsive design with interactive UI/UX. [![Visit](https://img.shields.io/badge/Visit-fullmoon.icu-FF0080?style=flat-square&logo=google-chrome&logoColor=white)](https://fullmoon.icu/)
-- **Explore More**: Check out my GitHub repositories. [![GitHub](https://img.shields.io/badge/View_All-Repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Purnima2004?tab=repositories)
-
----
-
-## GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=Purnima2004&show_icons=true&theme=radical&title_color=FF0080&icon_color=0000FF&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Purnima2004&theme=radical&ring=FF0080&fire=FF0080&currStreakLabel=FF0080&background=0d1117&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Purnima2004&theme=transparent&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" />
+
+</div>
+
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purnima2004&layout=compact&theme=radical&title_color=FF0080&icon_color=0000FF&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" />
 
 ---
 
-## Learning Path
+<!-- GROWTH ROADMAP -->
 
-<table>
-  <tr>
-    <td width="25%" align="center">
-      <h3>ML & AI</h3>
-      <ul align="left">
-        <li>Hugging Face</li>
-        <li>Gemini API</li>
-        <li>ML Pipelines</li>
-      </ul>
-    </td>
-    <td width="25%" align="center">
-      <h3>Frontend</h3>
-      <ul align="left">
-        <li>React 18</li>
-        <li>Composition</li>
-        <li>Performance</li>
-      </ul>
-    </td>
-    <td width="25%" align="center">
-      <h3>Backend</h3>
-      <ul align="left">
-        <li>System Design</li>
-        <li>Scalability</li>
-        <li>API Design</li>
-      </ul>
-    </td>
-    <td width="25%" align="center">
-      <h3>DevOps</h3>
-      <ul align="left">
-        <li>AWS EC2</li>
-        <li>Nginx</li>
-        <li>CI/CD</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+```bash
+$ cat roadmap.md
+```
 
-<h3><i>Always learning, always growing!</i></h3>
+| Track | Now | Next |
+|---|---|---|
+| **ML / AI** | HuggingFace · Gemini API · ML Pipelines | LLM fine-tuning · RAG systems |
+| **Frontend** | React 18 · Tailwind · Vite | Next.js · Advanced performance |
+| **Backend** | Django · REST APIs · SQLite | System design · Distributed systems |
+| **DevOps** | Docker · Vercel · GitHub Actions | AWS EC2 · Nginx · Full CI/CD |
+
+<br/>
 
 ---
 
-<h2>Connect & Collaborate</h2>
-<p><i>I'm always excited about interesting conversations, collaboration opportunities, and new projects!</i></p>
+<!-- FOOTER CTA -->
 
-<a href="https://www.linkedin.com/in/purnima-sahoo-61a566252/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:purnimajagganathsahoo@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://fullmoon.icu/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-FF0080?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://github.com/Purnima2004">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║    Got an interesting project? Let's build together.      ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purnima-sahoo-61a566252/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purnimajagganathsahoo@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FFB2?style=for-the-badge&logo=google-chrome&logoColor=black)](https://fullmoon.icu/)
+
+*Always learning. Always shipping.*
 
 </div>
