@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./1000066402.gif" width="100%" alt="AI Demo"/>
+<img src="./1000066402.gif" width="100%" alt="Purnima Sahoo"/>
+
+<br>
 
 # Purnima Sahoo
 
-### AI Benchmark Engineer @ AirDawgs
-
-*Building reliable AI systems through benchmarking, evaluation, and machine learning.*
+*Building reliable AI systems through evaluation, benchmarking, and machine learning.*
 
 <p>
 <a href="https://fullmoon.icu">Portfolio</a> •
@@ -21,45 +21,47 @@
 
 ## About
 
-I'm an **AI Benchmark Engineer at AirDawgs**, focused on evaluating and improving modern AI systems.
+I'm an **AI Benchmark Engineer at AirDawgs**, where I evaluate and improve the reliability of modern AI systems.
 
-My interests include **LLM evaluation**, **Agentic AI**, **Retrieval-Augmented Generation (RAG)**, and **production-ready machine learning systems**.
-
-Currently building AI applications that combine intelligent models with scalable engineering.
+My work focuses on building evaluation pipelines, benchmarking large language models, and developing practical AI applications. I enjoy solving problems at the intersection of **LLMs**, **machine learning**, and **software engineering**.
 
 ---
 
-## Demo
+## Current Focus
 
-<div align="center">
+```yaml
+Working On:
+  - LLM Evaluation
+  - AI Benchmarking
+  - Agentic AI
+  - Retrieval-Augmented Generation (RAG)
 
-<img src="./assets/ai-demo.gif" width="92%" alt="AI Demo">
-
-<br>
-
-<sub>LLM Evaluation • AI Benchmarking • Agentic AI • Machine Learning</sub>
-
-</div>
+Learning:
+  - Advanced System Design
+  - AWS
+  - CI/CD
+  - Production ML Systems
+```
 
 ---
 
-## Featured Work
+## Featured Projects
 
-### AI Online Judge
+### 🧠 AI Online Judge
 
-Dockerized online coding platform featuring secure sandbox execution, Gemini-powered code review, plagiarism detection, and real-time evaluation.
+A Dockerized coding platform with secure sandbox execution, Gemini-powered code review, plagiarism detection, and real-time evaluation.
 
-**Stack**
+**Tech**
 
 `Python` `Django` `Docker` `Gemini API`
 
 ---
 
-### AutoML Pro
+### 🤖 AutoML Pro
 
-An interactive AutoML platform for model comparison, preprocessing, visualization, and experimentation.
+Interactive AutoML platform for preprocessing, model comparison, visualization, and experimentation.
 
-**Stack**
+**Tech**
 
 `Python` `Streamlit` `Scikit-Learn`
 
@@ -67,11 +69,11 @@ An interactive AutoML platform for model comparison, preprocessing, visualizatio
 
 ---
 
-### SkillCraft
+### 📚 SkillCraft
 
-AI-powered learning platform with personalized recommendations and modern frontend architecture.
+AI-powered personalized learning platform built with a modern frontend architecture.
 
-**Stack**
+**Tech**
 
 `React` `TailwindCSS` `Hugging Face`
 
@@ -79,59 +81,93 @@ AI-powered learning platform with personalized recommendations and modern fronte
 
 ---
 
-## Current Focus
+## Tech Stack
 
-```yaml
-AI:
-  - LLM Evaluation
-  - AI Benchmarking
-  - Agentic AI
-  - RAG Systems
+<table>
+<tr>
+<td>
 
-ML:
-  - PyTorch
-  - Fine-tuning
-  - Model Optimization
+**Languages**
 
-Infra:
-  - Docker
-  - AWS
-  - CI/CD
-```
+Python
+
+C++
+
+JavaScript
+
+SQL
+
+</td>
+
+<td>
+
+**AI / ML**
+
+PyTorch
+
+Scikit-learn
+
+Transformers
+
+Hugging Face
+
+Gemini API
+
+</td>
+
+<td>
+
+**Backend**
+
+Django
+
+FastAPI
+
+REST APIs
+
+Docker
+
+AWS
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## Tech
+## GitHub Analytics
 
-```text
-Python • C++ • Django • FastAPI • React • PyTorch
-Scikit-learn • Hugging Face • Docker • AWS • Git
-```
+<p align="center">
 
----
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Purnima2004&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-## GitHub
+<img width="48%" src="https://streak-stats.demolab.com?user=Purnima2004&theme=transparent&hide_border=true"/>
 
-<div align="center">
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Purnima2004&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<p align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Purnima2004&theme=transparent&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purnima2004&layout=compact&theme=transparent&hide_border=true"/>
 
-<br><br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purnima2004&layout=compact&theme=transparent&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Purnima2004&theme=github-compact&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+## Connect
 
-### Let's Connect
+I'm always interested in collaborating on
 
-Always open to collaborating on **LLMs**, **AI Evaluation**, **Machine Learning**, and **Agentic AI**.
+- LLM Evaluation
+- Agentic AI
+- RAG Systems
+- AI Infrastructure
+- Open Source
 
-</div>
+<p align="center">
+
+<a href="https://fullmoon.icu">Portfolio</a> •
+<a href="https://www.linkedin.com/in/purnima-sahoo-61a566252/">LinkedIn</a> •
+<a href="mailto:purnimajagganathsahoo@gmail.com">Email</a>
+
+</p>
