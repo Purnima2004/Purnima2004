@@ -1,6 +1,16 @@
 <div align="center">
 
-<img src="./1000066402.gif" width="100%" alt="Purnima Sahoo"/>
+<img
+    src="./1000066402.gif"
+    width="65%"
+    alt="AI Benchmark Demo"
+/>
+
+<br><br>
+
+<sub><b>AI Benchmarking • LLM Evaluation • Agentic AI</b></sub>
+
+</div>
 
 <br>
 
