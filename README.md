@@ -1,110 +1,158 @@
 <div align="center">
 
-<img src="./coding-girl-banner.svg" alt="Purnima coding in a futuristic workspace" width="100%" />
+<img src="./coding-girl-banner.svg" width="100%" alt="Purnima Sahoo Banner"/>
 
-# Hi, I am Purnima Sahoo
+# Purnima Sahoo
 
-**Full-Stack Developer · ML Engineer · UI/UX enthusiast**
+### AI Benchmark Engineer @ AirDawgs
 
-I build clean interfaces, intelligent systems, and products that feel polished from first click to final deploy.
+*Building reliable AI systems through evaluation, LLM engineering, and machine learning.*
 
-[Portfolio](https://fullmoon.icu/) · [LinkedIn](https://www.linkedin.com/in/purnima-sahoo-61a566252/) · [Email](mailto:purnimajagganathsahoo@gmail.com) · [GitHub](https://github.com/Purnima2004)
+<br>
+
+[Portfolio](https://fullmoon.icu/) •
+[LinkedIn](https://www.linkedin.com/in/purnima-sahoo-61a566252/) •
+[GitHub](https://github.com/Purnima2004/) •
+[Email](mailto:purnimajagganathsahoo@gmail.com)
 
 </div>
 
 ---
 
-## About me
+# About
 
-I am a SWE Co-op Intern at AlgoUniversity (YC S21), focused on full-stack development and ML engineering. I like working where product design, frontend quality, and applied AI meet.
+I'm an **AI Benchmark Engineer at AirDawgs**, where I work on evaluating and improving the reliability of modern AI systems.
 
-- Building: Dockerized Online Judge Platform with Gemini AI code analysis
-- Learning: AWS EC2, Nginx, CI/CD, advanced system design
-- Strengths: React, Django, PyTorch, AWS, and UI implementation
-- Mindset: ship fast, iterate, and keep the experience beautiful
+My interests span **LLM evaluation, agentic AI, RAG systems, machine learning, and AI infrastructure**. I enjoy building products that combine intelligent models with thoughtful engineering to create practical, production-ready applications.
 
----
+Currently exploring:
 
-## What I work on
-
-| Area | Focus |
-|---|---|
-| Frontend | React, Tailwind, Vite, responsive UI systems |
-| Backend | Django, REST APIs, authentication, data flow |
-| ML / AI | PyTorch, Hugging Face, Gemini, practical ML pipelines |
-| DevOps | Docker, AWS, Git, deployment workflows |
+* LLM Evaluation & Benchmarking
+* Agentic AI Workflows
+* Retrieval-Augmented Generation (RAG)
+* AI Infrastructure & Deployment
+* AWS & Docker
+* Production ML Systems
 
 ---
 
-## Featured projects
+# Areas of Interest
 
-### Online Judge Platform
-Dockerized sandboxed code execution with Gemini-powered AI analysis and real-time submission tracking.  
-**Stack:** Django · SQLite · Docker · Gemini AI · Python
-
-### SkillCraft
-React 18 + Vite app with reusable UI components and fast API-driven experiences.  
-**Stack:** React.js · Tailwind CSS · Hugging Face · Vite  
-**Live:** https://course-craft-front.vercel.app/
-
-### AutoML Pro
-Streamlit-based ML pipeline tool that automates algorithm comparison and model exploration.  
-**Stack:** scikit-learn · Streamlit · PCA · Python  
-**Live:** https://automl-pro.streamlit.app/
-
-### Portfolio
-Modern personal site focused on responsive design, interaction, and a clean user experience.  
-**Live:** https://fullmoon.icu/
+|                       |                                          |
+| :-------------------- | :--------------------------------------- |
+| **LLM Engineering**   | Prompting, evaluation, benchmarking      |
+| **Machine Learning**  | PyTorch, Scikit-learn, model development |
+| **Generative AI**     | RAG, Gemini API, Hugging Face            |
+| **AI Infrastructure** | Docker, AWS, deployment pipelines        |
+| **Backend**           | Django, REST APIs                        |
+| **Frontend**          | React, Tailwind CSS                      |
 
 ---
 
-## Current focus
+# Featured Projects
+
+## AI Online Judge
+
+A secure Docker-based online coding platform featuring isolated code execution, AI-powered code review using Gemini, plagiarism detection, and real-time evaluation.
+
+**Tech**
+`Python` • `Django` • `Docker` • `Gemini API` • `SQLite`
+
+---
+
+## AutoML Pro
+
+A machine learning experimentation platform that automates preprocessing, model comparison, hyperparameter tuning, and performance visualization.
+
+**Tech**
+`Python` • `Streamlit` • `Scikit-learn`
+
+🔗 https://automl-pro.streamlit.app/
+
+---
+
+## SkillCraft
+
+An AI-powered learning platform designed to recommend personalized learning paths through interactive and responsive user experiences.
+
+**Tech**
+`React` • `Tailwind CSS` • `Vite` • `Hugging Face`
+
+🔗 https://course-craft-front.vercel.app/
+
+---
+
+## Portfolio
+
+Minimal personal website showcasing projects, technical writing, and experiments.
+
+🔗 https://fullmoon.icu/
+
+---
+
+# Currently Exploring
 
 ```yaml
-2026:
-  now:
-    - strengthen system design
-    - deepen AWS and CI/CD knowledge
-    - improve production-level frontend craftsmanship
-  next:
-    - agentic AI workflows
-    - RAG systems
-    - scalable deployment patterns
+AI:
+  - LLM Evaluation
+  - AI Benchmarks
+  - Agentic AI
+  - Multi-Agent Systems
+  - RAG
+  - AI Safety
+
+ML:
+  - PyTorch
+  - Fine-tuning
+  - Model Optimization
+
+Infra:
+  - Docker
+  - AWS
+  - CI/CD
+  - Nginx
 ```
 
 ---
 
-## Tech stack
+# Tech Stack
 
-**Frontend**  
-React · JavaScript · Tailwind CSS · HTML5 · Vite
+### Languages
 
-**Backend**  
-Python · Django · MySQL · C++
+Python • C++ • JavaScript • SQL
 
-**ML / AI**  
-PyTorch · scikit-learn · Hugging Face · Streamlit · Gemini
+### AI / ML
 
-**DevOps & Cloud**  
-Docker · AWS · Git · Nginx · Vercel
+PyTorch • Scikit-learn • Hugging Face • Gemini API • OpenCV • Streamlit
+
+### Backend
+
+Django • FastAPI • REST APIs
+
+### Cloud & DevOps
+
+Docker • AWS • Git • GitHub Actions • Nginx • Linux
+
 
 ---
 
-## GitHub stats
+# GitHub Analytics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Purnima2004&show_icons=true&theme=transparent&title_color=7EF8FF&icon_color=7EF8FF&text_color=c9d1d9&hide_border=true&rank_icon=github&custom_title=Activity+Overview" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purnima2004&layout=compact&theme=transparent&title_color=7EF8FF&text_color=c9d1d9&hide_border=true&custom_title=Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Purnima2004&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purnima2004&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
-## Let’s build something meaningful
+# Let's Connect
 
-If you are interested in frontend polish, applied AI, or product engineering, I am always open to connect.
+I'm always interested in conversations around **LLMs, AI evaluation, agentic systems, machine learning, and open-source AI.**
 
-[LinkedIn](https://www.linkedin.com/in/purnima-sahoo-61a566252/) · [Portfolio](https://fullmoon.icu/) · [Email](mailto:purnimajagganathsahoo@gmail.com)
-
+[Portfolio](https://fullmoon.icu/) •
+[LinkedIn](https://www.linkedin.com/in/purnima-sahoo-61a566252/) •
+[GitHub](https://github.com/Purnima2004/) •
+[Email](mailto:purnimajagganathsahoo@gmail.com)
