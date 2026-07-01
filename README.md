@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Banner"/>
+<img src="./1000066402.gif" width="100%" alt="AI Demo"/>
 
 # Purnima Sahoo
 
-### AI Benchmark Engineer
+### AI Benchmark Engineer @ AirDawgs
 
 *Building reliable AI systems through benchmarking, evaluation, and machine learning.*
 
