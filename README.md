@@ -26,6 +26,10 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
+  <br/><br/>
+
+  <img src="intro.gif" width="60%" style="border-radius: 10px;" alt="Intro" />
+
 </div>
 
 ---
@@ -41,16 +45,6 @@
 - 🎯 &nbsp;Smart India Hackathon | **University Qualified Finalist**
 - 🏆 &nbsp;Ranked 116 globally in Meta HackerCup AI Track
 - ⚡ &nbsp;Fun fact: I containerize everything, even my side projects get Dockerfiles 🐳
-
----
-
-## 🎬 Featured Showcase
-
-<div align="center">
-
-  <img src="intro.gif" width="60%" style="border-radius: 10px;" alt="Featured Showcase" />
-
-</div>
 
 ---
 
