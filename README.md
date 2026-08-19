@@ -22,6 +22,10 @@
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
+  <a href="https://medium.com/@purnima2026">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  &nbsp;
   <a href="mailto:purnimajagganathsahoo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -274,6 +278,10 @@ Built with `LangChain` · `Groq` · `SpeechRecognition` · `OpenCV`
 
   <a href="https://linkedin.com/in/purnima-sahoo/">
     <img src="https://img.shields.io/badge/Let's_Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@purnima2026">
+    <img src="https://img.shields.io/badge/Read_My_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:purnimajagganathsahoo@gmail.com">
