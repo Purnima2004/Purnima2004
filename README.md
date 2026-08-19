@@ -8,10 +8,18 @@
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=purnima2904&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Purnima2004&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
   &nbsp;
   <a href="https://linkedin.com/in/purnima-sahoo/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/purnima2024/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="https://portfolio-website-mu-six-99.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:purnimajagganathsahoo@gmail.com">
@@ -24,27 +32,14 @@
 
 ## 🧬 About Me
 
-```python
-class PurnimaSahoo:
-    def __init__(self):
-        self.name        = "Purnima Sahoo"
-        self.education   = "B.Tech CSE @ VIT | CGPA 8.56"
-        self.role        = "Software Engineer · AI/ML Developer"
-        self.languages   = ["Python", "C", "C++"]
-        self.interests   = ["Generative AI", "Computer Vision", "Full-Stack Dev"]
-        self.fun_fact    = "Ranked 116 globally in Meta HackerCup AI Track 🏆"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-
-me = PurnimaSahoo()
-me.say_hi()
-```
+👋 Hi there! I'm **Purnima Sahoo**, a passionate AI/ML Developer. I love building scalable applications and exploring the frontiers of Artificial Intelligence.
 
 - 🔭 &nbsp;Currently honing my craft as an **SWE Co-Op Intern** at **AlgoUniversity (YC S21)**
 - 🤖 &nbsp;Passionate about **AI agents, LLM pipelines, and intelligent automation**
 - 🧠 &nbsp;Competitive programmer with **1500+ rating** across platforms
+- 🌐 &nbsp;Check out my latest projects on my **[Portfolio](https://portfolio-website-mu-six-99.vercel.app/)**
 - 🎯 &nbsp;Smart India Hackathon — **University Qualified Finalist**
+- 🏆 &nbsp;Ranked 116 globally in Meta HackerCup AI Track
 - ⚡ &nbsp;Fun fact: I containerize everything — even my side projects get Dockerfiles 🐳
 
 ---
@@ -168,13 +163,13 @@ Built with `LangChain` · `Groq` · `SpeechRecognition` · `OpenCV`
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=purnima2904&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=F472B6&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Purnima2004&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=F472B6&text_color=C9D1D9" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnima2904&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purnima2004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=purnima2904&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=F472B6&fire=F472B6&currStreakLabel=A855F7" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Purnima2004&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=F472B6&fire=F472B6&currStreakLabel=A855F7" alt="GitHub Streak" />
 
 </div>
 
@@ -234,9 +229,9 @@ Built with `LangChain` · `Groq` · `SpeechRecognition` · `OpenCV`
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/purnima2904/purnima2904/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/purnima2904/purnima2904/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/purnima2904/purnima2904/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Purnima2004/Purnima2004/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Purnima2004/Purnima2004/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Purnima2004/Purnima2004/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -255,7 +250,7 @@ Built with `LangChain` · `Groq` · `SpeechRecognition` · `OpenCV`
 
   <br/>
 
-  <a href="https://linkedin.com/in/purnima-sahoo-61a566252/">
+  <a href="https://linkedin.com/in/purnima-sahoo/">
     <img src="https://img.shields.io/badge/Let's_Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
