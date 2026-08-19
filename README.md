@@ -3,7 +3,7 @@
 
   <!-- Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Purnima+Sahoo;AI+%7C+ML+%7C+Full+Stack+%7C+Open+Source+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Purnima+Sahoo;AI+%7C+ML+%7C+Open+Source+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -32,15 +32,15 @@
 
 ## 🧬 About Me
 
-👋 Hi there! I'm **Purnima Sahoo**, a passionate AI/ML Developer. I love building scalable applications and exploring the frontiers of Artificial Intelligence.
+👋 Hi there! I'm **Purnima Sahoo**, a passionate Software Engineer and AI/ML Developer currently studying Computer Science and Engineering at VIT (CGPA: 8.56). I love building scalable applications and exploring the frontiers of Artificial Intelligence.
 
 - 🔭 &nbsp;Currently honing my craft as an **SWE Co-Op Intern** at **AlgoUniversity (YC S21)**
 - 🤖 &nbsp;Passionate about **AI agents, LLM pipelines, and intelligent automation**
 - 🧠 &nbsp;Competitive programmer with **1500+ rating** across platforms
 - 🌐 &nbsp;Check out my latest projects on my **[Portfolio](https://portfolio-website-mu-six-99.vercel.app/)**
-- 🎯 &nbsp;Smart India Hackathon — **University Qualified Finalist**
+- 🎯 &nbsp;Smart India Hackathon | **University Qualified Finalist**
 - 🏆 &nbsp;Ranked 116 globally in Meta HackerCup AI Track
-- ⚡ &nbsp;Fun fact: I containerize everything — even my side projects get Dockerfiles 🐳
+- ⚡ &nbsp;Fun fact: I containerize everything, even my side projects get Dockerfiles 🐳
 
 ---
 
@@ -122,7 +122,7 @@ Built with `LangChain` · `RAG` · `FastEmbed` · `Groq`
 
 Built with `TensorFlow` · `CNN` · `OpenCV` · `dlib`
 
-> Face recognition with liveness detection via blink analysis using 68-point facial landmarks and Eye Aspect Ratio thresholding — achieving **90.91% validation accuracy**.
+> Face recognition with liveness detection via blink analysis using 68-point facial landmarks and Eye Aspect Ratio thresholding, achieving **90.91% validation accuracy**.
 
 <img src="https://img.shields.io/badge/DL-TensorFlow-FF6F00?style=flat-square" /> <img src="https://img.shields.io/badge/CV-OpenCV-5C3EE8?style=flat-square" />
 
@@ -136,7 +136,7 @@ Built with `TensorFlow` · `CNN` · `OpenCV` · `dlib`
 
 Built with `Python` · `Joblib` · `Seaborn` · `Streamlit`
 
-> Eliminates repetitive ML pipeline setup — orchestrates 10+ algorithms, handles data challenges, and exports production-ready models. Cuts dev time by **~75%**.
+> Eliminates repetitive ML pipeline setup by orchestrating 10+ algorithms, handling data challenges, and exporting production-ready models. Cuts dev time by **~75%**.
 
 <img src="https://img.shields.io/badge/ML-AutoML-FF4081?style=flat-square" /> <img src="https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=flat-square" />
 
@@ -183,9 +183,9 @@ Built with `LangChain` · `Groq` · `SpeechRecognition` · `OpenCV`
 |:---:|:---|:---|
 | 🌍 | **Meta HackerCup (AI Track)** | Rank **116 globally** |
 | 💻 | **Competitive Programming** | **1500+** rating across platforms |
-| 🏅 | **Smart India Hackathon** | University Qualified Finalist — beat **500+ teams** |
-| 🎓 | **IBM AI Engineering** | Coursera Specialization — **88.02%** |
-| ⭐ | **Coding Ninjas** | Top Performer in C++ — **94% score** |
+| 🏅 | **Smart India Hackathon** | University Qualified Finalist (beat **500+ teams**) |
+| 🎓 | **IBM AI Engineering** | Coursera Specialization (**88.02%**) |
+| ⭐ | **Coding Ninjas** | Top Performer in C++ (**94% score**) |
 
 </div>
 
@@ -197,7 +197,25 @@ Built with `LangChain` · `Groq` · `SpeechRecognition` · `OpenCV`
 <tr>
 <td>
 
-### 👩‍💻 SWE Co-Op Intern — AlgoUniversity (YC S21)
+### 🤖 AI Benchmark Engineer | AirDawg Labs 
+*(June 2026 - Present)*
+
+</td>
+</tr>
+<tr>
+<td>
+
+🔹 Designed and developed complex benchmark tasks and high-quality evaluation datasets to assess and improve the reasoning, coding, and problem-solving capabilities of advanced AI models.<br/>
+🔹 Created realistic programming and system-level tasks using Python, Linux CLI, and Docker, ensuring reproducible, production-like environments for AI evaluation.<br/>
+🔹 Executed, validated, and refined benchmark tasks on the evaluation platform by identifying failure cases, improving task quality, and maintaining high annotation standards.<br/>
+🔹 Contributed to improving AI model performance by building evaluation tasks and datasets that enable models to solve increasingly complex real-world problems.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 👩‍💻 SWE Co-Op Intern | AlgoUniversity (YC S21)
 
 </td>
 </tr>
@@ -218,9 +236,9 @@ Built with `LangChain` · `Groq` · `SpeechRecognition` · `OpenCV`
 
 ## 🤝 Leadership
 
-- 🔬 **R&D Lead** — Linux Club & Cyber Warriors Club *(Jan – Dec 2024)*
+- 🔬 **R&D Lead** | Linux Club & Cyber Warriors Club *(Jan - Dec 2024)*
   - Led cross-functional R&D across **2+ teams**, coordinated milestones, and drove content strategy
-- 🏗️ **SIH Finalist** — Built a fraudulent profile detection system selected from **500+ teams**
+- 🏗️ **SIH Finalist** | Built a fraudulent profile detection system selected from **500+ teams**
 
 ---
 
@@ -246,7 +264,7 @@ Built with `LangChain` · `Groq` · `SpeechRecognition` · `OpenCV`
 
   <br/>
 
-  **If you like what you see, drop a ⭐ on my repos — it fuels the hustle!**
+  **If you like what you see, drop a ⭐ on my repos, it fuels the hustle!**
 
   <br/>
 
