@@ -48,7 +48,7 @@
 
 <div align="center">
 
-  <img src="clean_can_u_make_a_short_video_featu.gif" width="60%" style="border-radius: 10px;" alt="Featured Showcase" />
+  <img src="intro.gif" width="60%" style="border-radius: 10px;" alt="Featured Showcase" />
 
 </div>
 
